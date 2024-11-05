@@ -25,7 +25,7 @@ title:   Post-Mining Landscape: A Study of Abandoned Mines in Eastern Nigeria
 tagline: Abandoned Mines, Communities, Disability, Environmental Justice, Land Dispossession, Industrial Safety
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "The Post-Mining Landscapes project is an interactive digital platform designed to explore and visualize the complex socio-economic and environmental impacts of abandoned mines in Southeastern Nigeria. This platform integrates Geographic Information Systems (GIS) with digital humanities approaches to map and narrate the history and current status of these landscapes. It aims to make the research accessible not only to academic audiences but also to policymakers, community members, and the general public."
+description: "The Post-Mining Landscapes project is an interactive digital platform designed to explore and visualize the complex socio-economic and environmental impacts of abandoned mines in Southeastern Nigeria. The project aims to make the research accessible not only to academic audiences but also to policymakers, community members, and the general public."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Nwachukwu Uzoamaka
 
@@ -40,11 +40,10 @@ metadata: METADATA
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-# organization-link: https://cdil.lib.uidaho.edu/
-# organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-# organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
-
+# organization-name: "Department of History, Indiana University Bloomington"
+# organization-link: https://history.indiana.edu/graduate/index.html
+# organization-logo-banner: https://seeklogo.com/vector-logo/380342/indiana-university-bloomington
+# organization-logo-nav: 
 ##########
 # ROBOTS EXCLUDE
 #
