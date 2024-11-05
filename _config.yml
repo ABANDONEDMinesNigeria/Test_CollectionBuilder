@@ -22,11 +22,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: Post-Mining Landscapes in Eastern Nigeria
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Abandoned Mines, Community, Disability, Environmental Justice, Industrial Safety
+tagline: "Abandoned Mines, Community, Disability, Environmental Justice, Industrial Safety"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "Project Overview. The "Post-Mining Landscapes" project is an interactive digital platform designed to explore and visualize the complex socio-economic and environmental impacts of abandoned mines in Southeastern Nigeria. The research is accessible not only to academic audiences but also to policymakers, community members, and the general public."
-
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
